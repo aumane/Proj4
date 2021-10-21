@@ -1,4 +1,4 @@
-//This is JS file
+//This is JS2 file
 const cards = document.querySelectorAll(".card");
 console.log(cards);
 
